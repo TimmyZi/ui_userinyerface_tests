@@ -1,0 +1,9 @@
+{
+  "emailLength": "7",
+  "domainLength": "5",
+  "passwordMinLength": "10",
+  "capitalLetter": "2",
+  "numeral": "3",
+  "cyrillic": "1",
+  "checkBoxesCount": "3"
+}
